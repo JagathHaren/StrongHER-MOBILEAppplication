@@ -1,0 +1,7 @@
+{
+  "name": "FitFlow Mobile",
+  "description": "A comprehensive fitness, nutrition, and wellness tracker featuring food logging with AI, period tracking, and mood analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
